@@ -15,6 +15,7 @@ Project Objectives
 	-	Build confidence working with loops, conditionals, data structures, and user input
 
 Projects Included 
+	
 	1. Vending Machine program
 		- Displays available snacks and drinks with prices
 		-Allows users to select multiple items in a loop
